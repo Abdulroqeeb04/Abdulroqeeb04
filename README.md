@@ -1,4 +1,3 @@
-```markdown
 ## Hi, I'm Yekini Abdulroqeeb Ademola 👋
 
 ## Data Analyst | Process Engineer | Graphics Designer
@@ -218,4 +217,3 @@ I'm always open to connecting with professionals, learning from others, collabor
 ---
 
 > I'm always open to learning, collaborating, and working on meaningful data-driven projects.
-```
