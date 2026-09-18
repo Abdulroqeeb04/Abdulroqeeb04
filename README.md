@@ -1,4 +1,4 @@
-# Yekini Abdulroqeeb Ademola
+# HI, I'm Yekini Abdulroqeeb Ademola
 
 ### Data Analyst | Process Engineer | Graphics Designer
 
@@ -98,7 +98,7 @@ The dataset contained information about water sources, visits, queue times, wate
 
 `SQL` `MySQL` `MySQL Workbench` `Git` `GitHub`
 
-**Repository:** [View Project](ADD-YOUR-MAJI-NDOGO-REPOSITORY-LINK-HERE)
+**Repository:** [View Project](Abdulroqeeb04/maji-ndogo-sql-analysis)
 
 ---
 
@@ -144,6 +144,7 @@ The dataset contained information about water sources, visits, queue times, wate
 - ✅ Business Analysis Certificate
 - ✅ SQL Fundamentals Certificate
 - ✅ CRM Fundamentals Certificate
+- ✅ Shell Scripting (Linux/Unix Commands) Fundamentals Certificate.
 - ✅ Product Design Certification — Infolab Institute of Technology, 2024
 - 📊 Advanced Data Analysis — Excel, SQL & Power BI
 
