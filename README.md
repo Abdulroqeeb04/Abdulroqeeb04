@@ -98,7 +98,7 @@ The dataset contained information about water sources, visits, queue times, wate
 
 `SQL` `MySQL` `MySQL Workbench` `Git` `GitHub`
 
-**Repository:** [View Project](Abdulroqeeb04/maji-ndogo-sql-analysis)
+**Repository:** [View Project]([maji-ndogo-sql-analysis](https://github.com/Abdulroqeeb04/maji-ndogo-sql-analysis))
 
 ---
 
